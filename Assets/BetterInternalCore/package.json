@@ -1,7 +1,7 @@
 {
   "name": "com.tdw.better.internal.core",
-  "displayName": "Better Essentials",
-  "version": "0.0.1",
+  "displayName": "Better Internal Core",
+  "version": "0.0.2",
   "unity": "2021.3",
   "description": "Base package for Better Plugins",
   "author": {
