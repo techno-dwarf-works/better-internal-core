@@ -1,4 +1,4 @@
-# Better Essentials
+# Better Internal Core
 Base package for [Better Plugin Collection](https://github.com/techno-dwarf-works/)
 
 ## Install
